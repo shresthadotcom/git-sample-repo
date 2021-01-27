@@ -3,7 +3,7 @@ git init
 git config --global user.name "Nisha Shrestha"
 git config --global user.email shrestha.s.nisha@gmail.com
 git config user.name "Nisha Shrestha"
-git config user.email shrestha.s.nisha@gmail.com
+git config user.email shrestha..nisha@gmail.com
 git add
 git commit -m ""
 git log
